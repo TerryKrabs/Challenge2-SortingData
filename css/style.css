@@ -1,0 +1,14 @@
+.pic{
+    height: 100px;
+    width: 100px;
+
+}
+
+.bord{
+    border: 1px white solid;
+}
+
+.bordG{
+    border: 1px grey solid;
+
+}
